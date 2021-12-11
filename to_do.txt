@@ -1,0 +1,9 @@
+#1 Posticipare i tweet degli eventi macro notturni in modo che siano eseguiti al mattino
+#2 Testare week_ago nello scrape se funziona anche se va a prendere un giorno di chiusura
+
+Possibile espansioni:
+#Notizie societarie italiane / estere
+#Notizie di politica monetaria / fiscale
+#Notizie relative a commodities
+#TradingIdeas, Cryptovalute...?
+
