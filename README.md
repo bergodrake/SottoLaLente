@@ -20,13 +20,13 @@ Per rendere operativo il bot è necessario connetterlo ad un account twitter tra
 
 Creare quindi un file config.py contenente le seguenti variabili dove inserirete le vostre chiavi API:
 
-<code> consumer_key = ""
+<code> consumer_key = "" </code>
 
-consumer_secret = ""
+ <code> consumer_secret = "" </code>
 
-access_key = ""
+ <code> access_key = "" </code>
 
-access_secret = "" </code>
+ <code>  access_secret = "" </code>
 
 
 In seguito, avviare lo script bot.py dal terminale (es. <code> python bot.py </code> ).
