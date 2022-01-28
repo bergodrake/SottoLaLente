@@ -4,7 +4,7 @@
 # SottoLaLente
 Un bot su Twitter per notizie relative ai mercati finanziari.
 
-Puoi vederlo in azione qui -> https://twitter.com/SottoLaLente
+Puoi vederlo in azione qui -> https://twitter.com/MarketMagnifier
 
 ### Requisiti
 
